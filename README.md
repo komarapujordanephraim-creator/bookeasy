@@ -2,6 +2,8 @@
 
 A small mobile app for booking appointments at a clinic, salon or studio. Customers pick a service, a day and a free time, enter their name and phone, and can see or cancel their bookings. Built with Expo (React Native) and TypeScript. It is a portfolio project that shows how I structure a mobile app and test its booking rules, not a finished product.
 
+![Screens](screenshots/preview.png)
+
 ## What it does
 
 - **Services** with duration and price (fictional demo data in `src/data.ts`).
